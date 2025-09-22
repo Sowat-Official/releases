@@ -7,7 +7,7 @@ The software is closed-source and proprietary.
 
 ## 📥 Latest Client Release
 
-[![Client Version](https://img.shields.io/badge/dynamic/text?label=Client%20Version&query=%24&url=https://raw.githubusercontent.com/Sowat-Official/releases/refs/heads/main/clientVersion.txt&color=blue)](https://github.com/Sowat-Official/releases/releases/latest)
+![Client Version](https://badgen.net/badge/dynamic/json/version/https://raw.githubusercontent.com/Sowat-Official/releases/main/clientVersion.txt?color=blue)
 
 - **Latest version:** see badge above  
 
