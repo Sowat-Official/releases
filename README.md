@@ -7,9 +7,7 @@ The software is closed-source and proprietary.
 
 ## 📥 Latest Client Release
 
-![Client Version](https://badgen.net/badge/dynamic/json/version/https://raw.githubusercontent.com/Sowat-Official/releases/main/clientVersion.txt?color=blue)
 
-- **Latest version:** see badge above  
 
 ---
 
