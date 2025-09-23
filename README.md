@@ -15,6 +15,16 @@ The software is closed-source and proprietary.
 
 ---
 
+## 📥 Install specific version
+
+We let you choose your preferred client version if you don’t like the latest updates. Please note that older versions may sometimes be unstable. The list below shows which versions are stable and which are broken.
+
+| Version | Status   | Notes                         |
+|---------|----------|-------------------------------|
+| 0.0.1  | ❌ Broken | Not supported, inDev         |
+
+---
+
 ## 📜 License
 
 Copyright © 2025 Appitiv.  
