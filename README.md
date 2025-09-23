@@ -17,7 +17,10 @@ The software is closed-source and proprietary.
 
 ## 📥 Install specific version
 
-We let you choose your preferred client version if you don’t like the latest updates. Please note that older versions may sometimes be unstable. The list below shows which versions are stable and which are broken.
+We let you choose your preferred client version if you don’t like the latest updates. Please note that older versions may sometimes be unstable.  
+
+👉 [See the documentation](./docs/choose-client-version.md) for instructions.  
+👉 [View supported versions](./supported-versions.md) for a list of stable and broken versions.
 
 ---
 
