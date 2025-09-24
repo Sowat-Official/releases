@@ -20,7 +20,7 @@ The software is closed-source and proprietary.
 
 We let you choose your preferred client version if you don’t like the latest updates. Please note that older versions may sometimes be unstable.  
 
-👉 [See the documentation](./docs/choose-client-version.md) for instructions.  
+👉 [See the documentation](https://docs.cartoonblox.com/docs/extra/customInstall) for instructions.  
 👉 [View supported versions](./supported-versions.md) for a list of stable and broken versions.
 
 ---
