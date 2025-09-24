@@ -12,7 +12,6 @@ The software is closed-source and proprietary.
 [![Client version](https://img.shields.io/badge/dynamic/json?color=blue&style=for-the-badge&prefix=v&label=Client%20Version&query=$.client&url=https://raw.githubusercontent.com/Sowat-Official/releases/main/clientVersion.json)](https://github.com/Sowat-Official/releases/raw/main/clientVersion.json)
 ![Latest Release](https://img.shields.io/github/v/release/Sowat-Official/releases?logo=github&color=red&include_prereleases&style=for-the-badge&label=Latest%20release)
 <br>
-*Latest Github release may be beta.
 [How to install beta client](https://docs.cartoonblox.com/docs/extra/betaClient)
 
 ---
