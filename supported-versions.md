@@ -3,6 +3,7 @@
 | Version | Status   |
 |---------|----------|
 | ˅ Development builds ˅  |  |
+| 0.1.0  | ❌ Broken |
 | 0.0.9  | ❌ Broken |
 | 0.0.8  | ❌ Broken |
 | 0.0.7  | ❌ Broken |
